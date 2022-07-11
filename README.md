@@ -1,10 +1,10 @@
-```diff
-# AES-encryption-with-Arduino-Mega
-We can exchange data with encryption between two arduino mega.
+<h1> AES-encryption-with-Arduino-Mega </h1>
+<h3>We can exchange data with encryption between two arduino mega.</h3>
 
-Imp Note: It is still in development. The adding of 128 bit key is still left.
+<h3>Imp Note: </h3>     
+            It is still in development. The adding of 128 bit key is still left.
 
-Completed Part:
+<h3>Completed Part: </h3>
 
     1. Format input into 4x4 matrix(each unit of size 1 byte)
     
